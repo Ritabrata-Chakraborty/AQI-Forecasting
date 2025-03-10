@@ -50,9 +50,8 @@ Visualizes actual vs. predicted AQI for all models.
 Clone the repository and install the required dependencies:
 
 ```bash
-git clone <repository-url>
+git clone <https://github.com/Ritabrata-Chakraborty/AQI-Forecasting.git>
 cd AQI-Analysis
-pip install -r requirements.txt
 ```
 
 Alternatively, install the required libraries manually:
