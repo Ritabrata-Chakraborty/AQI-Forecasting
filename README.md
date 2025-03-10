@@ -52,12 +52,9 @@ Clone the repository and install the required dependencies:
 ```bash
 git clone <https://github.com/Ritabrata-Chakraborty/AQI-Forecasting.git>
 cd AQI-Analysis
-```
+conda env create -f environment.yml
+conda activate my_env
 
-Alternatively, install the required libraries manually:
-
-```bash
-pip install numpy pandas matplotlib statsmodels scikit-learn
 ```
 
 ## Usage
