@@ -1,0 +1,15 @@
+name: my_env
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python
+  - pandas
+  - glob2
+  - matplotlib
+  - statsmodels
+  - numpy
+  - scipy
+  - fitter
+  - scikit-learn
+  - openpyxl
